@@ -54,7 +54,7 @@ Create virtual environment to deploy the application locally by running below co
 
 Create and deploy a web application using AWS Elastic Beanstalk environment, which will create the below:
 
-> ec2 instance
+>> ec2 instance
 > loadbalancer
 > auto-scaling
 
@@ -109,4 +109,4 @@ http://myflaskproject-env.eba-jbvhzbhh.us-east-1.elasticbeanstalk.com/
 
 6. Repeat steps 2 through 3 to see continues integration
 
-##################
+############################################ -- END -- ############################################
