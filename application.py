@@ -10,4 +10,4 @@ application = Flask(__name__)
 #Define a function
 def hello_world():
     #Fucntion that returns a string
-    return 'Hello, Flask App-->> Deploy1-2-3'
+    return 'Hello, Flask App-->> Deploy1-2-'
